@@ -1,0 +1,51 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/PlomIOTOJ96n8XvNGBSpVArmybI\"",
+ "prevPageToken": "CPoBEAE",
+ "pageInfo": {
+  "totalResults": 251,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/2cwAXhF7qb8kmq3m5rSb3w08uCY\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4xNUMzRTJBOEYwRTBDOTBD",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Ký sự truyền hình: Đi thăm bảo tàng tự nhiên Miền Tây - Tập 1: Trên đồng cỏ bàng",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_6uaRP4V_Eg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_6uaRP4V_Eg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_6uaRP4V_Eg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_6uaRP4V_Eg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 250,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_6uaRP4V_Eg"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,2012 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/TZJmbaAC5WPcKik2nT1eAolN6AI\"",
+ "nextPageToken": "CJYBEAA",
+ "prevPageToken": "CGQQAQ",
+ "pageInfo": {
+  "totalResults": 251,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/TxcsDoQ3wfS0nHumz3rqoHLeZyQ\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS43ODA2MDVCQzY5QzZDMjUw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Đồng hẹ nước",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0GYQea2FRFs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0GYQea2FRFs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0GYQea2FRFs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0GYQea2FRFs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 100,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0GYQea2FRFs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/SgKpt0Z5UbJidl1BqHihnrL-xpQ\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS40OTQ5QjlEMDgzN0FBNUIw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Cá thát lát - đặc sản Hậu Giang",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fNQ0HA4pqZg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fNQ0HA4pqZg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fNQ0HA4pqZg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fNQ0HA4pqZg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 101,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fNQ0HA4pqZg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/jdO4iW_F-9M8LECeUFXOwMWvNbk\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5CQzUwREI3MzkxQjdBM0E0",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Cốm dẹp Trà Vinh",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DKErTVA4YuE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DKErTVA4YuE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DKErTVA4YuE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DKErTVA4YuE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 102,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DKErTVA4YuE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/pz0hDKrmo-HtQIB00f32V9vRWSc\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4yOTZGRTNEQ0ZGNUM5RDgw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Nghề chuối khô ở Cà Mau",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f1yWDGveAQw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f1yWDGveAQw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f1yWDGveAQw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f1yWDGveAQw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 103,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f1yWDGveAQw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/jTzUbo9_jEpv3L_DGLA7gkzJmic\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4zNDIxRUJGQThFRTg1QzAy",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mùa kiệu Tam Nông",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UZYOf-shea8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UZYOf-shea8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UZYOf-shea8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UZYOf-shea8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 104,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UZYOf-shea8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/TNWHzn0BYRN0UXz01OVGmbgdia8\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wN0FBRUVFNEVBMTZBQ0Mx",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nghề đóng xuồng mỹ nghệ ở An Giang",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QWdLiLyqIjE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QWdLiLyqIjE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QWdLiLyqIjE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QWdLiLyqIjE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 105,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QWdLiLyqIjE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/5xzMfoNzbMO-1djWpbfR1feyKbs\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5EODgyNjY4MzA3QzY5RTkx",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Đồng súng trên Lung Ngọc Hoàng",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/92MC27bTs70/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/92MC27bTs70/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/92MC27bTs70/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/92MC27bTs70/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 106,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "92MC27bTs70"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/uhPkbchpRwTfA54ecmSCmZgoy4Y\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5BNzdEQzY0REQzQTEyN0U3",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mùa bần ở cù lao Dung",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SiuLhwu_SrI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SiuLhwu_SrI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SiuLhwu_SrI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SiuLhwu_SrI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 107,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SiuLhwu_SrI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/NBt-hanRAxsJAo2ZS0vngMPjaoc\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS43RDg3MzJDMTRFMTZFOTAw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Mùa vú sữa",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n-aGXHyCunY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n-aGXHyCunY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n-aGXHyCunY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n-aGXHyCunY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 108,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n-aGXHyCunY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/sKBkGzunpLrEpStea8_hBZrbXTU\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS44NjIxNjc5OUQwQkJBODQ5",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Bánh in Cổ Cò",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2fDFiUFFFIE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2fDFiUFFFIE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2fDFiUFFFIE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2fDFiUFFFIE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 109,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2fDFiUFFFIE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/jBEIqkdVTku5UGQhDk6rNMmnOII\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wRkVBNUY4OTkzN0JCNTA2",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nghề làm mắm ở Ngã Năm",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hm8_VQwfBQQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hm8_VQwfBQQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hm8_VQwfBQQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hm8_VQwfBQQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 110,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hm8_VQwfBQQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/zMR6JmJLz_XvRxoEm_J3TyP9NQI\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS43NjE5NDdDRTdENjQ3RTkw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Làng rau nhút trên cồn Phú Mỹ",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2CdNETtPlJY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2CdNETtPlJY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2CdNETtPlJY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2CdNETtPlJY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 111,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2CdNETtPlJY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/TjnsoVBgdygfRLvJEODISGQ1EPE\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5ENEEyOTIwNkY4NzFGMkQ2",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Sáng tạo nghề nấm",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W66hKXCgWCA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W66hKXCgWCA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W66hKXCgWCA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W66hKXCgWCA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 112,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W66hKXCgWCA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/mj_364l9DflnZvRP8zdCeensr_0\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS42NEZDNTU0RTRENDUzRjMz",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Đổi mới nghề gạo",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?... \nFacebook: https://www.facebook.com/VinhLongTV \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BPCuYMmVR7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BPCuYMmVR7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BPCuYMmVR7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BPCuYMmVR7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 113,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BPCuYMmVR7M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/K2bKJvjFicIcOW-DgSH_QcDAiQk\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5BRDg1NUY1OTY2QzgzOEM0",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nghề tàu hũ ky ở Hoà An",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oAVv3iSuPSo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oAVv3iSuPSo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oAVv3iSuPSo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oAVv3iSuPSo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 114,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oAVv3iSuPSo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/_uUpVRHNMt09YW21cMl0jDsup3Y\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5ERkRDQjY0N0Y0Q0VFOTdC",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Chuyện nơi đồng sen",
+    "description": "Chương trình phát sóng lúc 19h45 Thứ Bảy hàng tuần trên THVL2.\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DEfNS6AhBtw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DEfNS6AhBtw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DEfNS6AhBtw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DEfNS6AhBtw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 115,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DEfNS6AhBtw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/IoFeV4N9PIrMkJvoBlUH6klU49I\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wMDkwRkI3NzExODA2MTFG",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mùa măng cụt trên cù lao Tân Qui",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ki3Gzf6rmVM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ki3Gzf6rmVM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ki3Gzf6rmVM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ki3Gzf6rmVM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 116,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ki3Gzf6rmVM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/fLprb27L8uslV_TWY_PcgPuTxXU\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4xRDJGOTc4RkUxMzUwMUFG",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mãng cầu xiêm Lai Vung",
+    "description": "Chương trình phát sóng lúc 19h45 Thứ Bảy hàng tuần trên THVL2.\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RBxHDB_9vf0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RBxHDB_9vf0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RBxHDB_9vf0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RBxHDB_9vf0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 117,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RBxHDB_9vf0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/4WjYWhMnTOKON5R1hqk81sXzdFE\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wQTI4OEZFRUE0Q0Q3ODQw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Nghề làm nhang sinh học ở Bến Tre",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RF5QiIYadZU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RF5QiIYadZU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RF5QiIYadZU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RF5QiIYadZU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 118,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RF5QiIYadZU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/1M3luFtLfPleakgBcAXb1F7Kjoo\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS41NUMwNTVERDNBRDc4REM0",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mỹ nghệ xứ dừa",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iPxKsOnx4EU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iPxKsOnx4EU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iPxKsOnx4EU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iPxKsOnx4EU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 119,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iPxKsOnx4EU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Fv8cS2_uUTJlVpTWLsFnJsTaHo0\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5BRUVCN0E0MzEwQzAwNjMy",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mùa ấu Lấp Vò",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aRl1Nz4qz4g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aRl1Nz4qz4g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aRl1Nz4qz4g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aRl1Nz4qz4g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 120,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aRl1Nz4qz4g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/p98sC6aYOurxOoIOeHIWMow-vL0\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5EODkyNDMzRkJBNkQ2NkMz",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Đổi mới nghề bột gạo",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lAS6wHH6Rw4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lAS6wHH6Rw4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lAS6wHH6Rw4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lAS6wHH6Rw4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 121,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lAS6wHH6Rw4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/jxGoy6wugmnnO9Aq-rfe_dVMdD0\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS41MzJFNEYxODEyNzA0QUUx",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng - Nhịp sống Trà Vinh: Nghề nuôi tôm",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UdR1FuostBQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UdR1FuostBQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UdR1FuostBQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UdR1FuostBQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 122,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UdR1FuostBQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ZpjCzq8gy9cAMoHh4OXnv45p4CA\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5ENjg3MEUyQ0IzODMzQThB",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Hương mắm còng Phước Lại",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ss0tg_F2-Eo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ss0tg_F2-Eo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ss0tg_F2-Eo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ss0tg_F2-Eo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 123,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ss0tg_F2-Eo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/q5-aEeTeSjLlXf4ya-w9C7tciF8\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS45MEI3NjgzMTVFQkZGODYx",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Rộn ràng làng xuồng Mỹ Hiệp",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KTnfFmwEP9I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KTnfFmwEP9I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KTnfFmwEP9I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KTnfFmwEP9I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 124,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KTnfFmwEP9I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/FTb8UBKR6kF_ZSOoIQTbaZJfnCQ\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4zNEMzQ0FDREY1MkE1RkQ1",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Xóm bè cá trên xứ cù lao",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZRpQDICTfEQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZRpQDICTfEQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZRpQDICTfEQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZRpQDICTfEQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 125,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZRpQDICTfEQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/3PmE-0yaAqptrKN2hv2HhsC0F7I\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5BQzRBQzNEOTgzNTU2QkZB",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Về vùng mặn An Minh",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dOP1e3gOBDg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dOP1e3gOBDg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dOP1e3gOBDg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dOP1e3gOBDg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 126,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dOP1e3gOBDg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/lpp0Cj0QnIhYRWg-4sMgwYA9TKk\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5EN0U0NTk3NzIwMjUxN0M3",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Mùa ruốc ở Vĩnh Châu",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RA57Te8-8vI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RA57Te8-8vI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RA57Te8-8vI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RA57Te8-8vI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 127,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RA57Te8-8vI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/E1ccHmQxYu_ocKOS8slpWyLhQh0\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS44M0Q5MzQ0QTcwQzFDMjc5",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nghề đúc đồng mỹ nghệ",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6fOM2CqvIso/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6fOM2CqvIso/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6fOM2CqvIso/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6fOM2CqvIso/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 128,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6fOM2CqvIso"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/KZdML7Fzu9FuZFqeNwQClgppmac\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wMEMyQTBBOTUwNTM0OUFG",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Làng khô Gành Hào",
+    "description": "--------------------------------------------------\n ⬇️ ⬇️ ⬇️ Tải ứng dụng THVLi để xem đầy đủ các chương trình\n 👉 Android: http://bit.ly/THVLi_Android \n 👉 iOS: http://bit.ly/THVLi_iOS\nhoặc xem trực tiếp trên http://thvli.vn\n--------------------------------------------------\n 📺 📺 📺 Khán giả tại Hà Nội có thể xem kênh #THVL1 trên hệ thống #VTVcab với cả ba hạ tầng:\n 👉 Truyền hình cáp analog (#KênhSỐ8)\n 👉 Truyền hình số SD (kênh số 141)\n 👉Truyền hình số HD (kênh 105)\n#THVL #THVLi\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O5eJdU_ypIc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O5eJdU_ypIc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O5eJdU_ypIc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/O5eJdU_ypIc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 129,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "O5eJdU_ypIc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/6rbPNlQ_JQsW7M6oHKwps75OLN4\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5FQjcyRDZBMEMyNTY3OTdE",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng - Nhịp sống Trà Vinh: Rừng đước sinh thái vùng duyên hải",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VsjNNCRy7bI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VsjNNCRy7bI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VsjNNCRy7bI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VsjNNCRy7bI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 130,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VsjNNCRy7bI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/goPe51QTCUwb14H9xvgtSnhwk8g\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS44REI4QUZDRDI5MDc4Q0NF",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Nghề Rèn Ở Cái Tàu Hạ",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8zjIMSN-1Cs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8zjIMSN-1Cs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8zjIMSN-1Cs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8zjIMSN-1Cs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 131,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8zjIMSN-1Cs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/6DL9WrlRgR6ey0Ve5FUzWz6p3mM\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS40ODU2MTBGM0M5MkIwQzU0",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Làng nghề đan đát bàng buông",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3jaqxDRJRL0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3jaqxDRJRL0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3jaqxDRJRL0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3jaqxDRJRL0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 132,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3jaqxDRJRL0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/uhHo7_YQVkdhvLCajgJgA3FnCms\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS42RDgxQ0M2OUIwREZCNjZF",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Sắc mới nghề dệt choàng",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RArTPaCyVH8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RArTPaCyVH8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RArTPaCyVH8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RArTPaCyVH8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 133,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RArTPaCyVH8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/mw_VkJ2oRcMtiZAQYZzhSBq1Iis\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS40MzEwNkU4RUE0MjhBRjg4",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Đồng sả vùng nước mặn",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mWPFQ8AgPW0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mWPFQ8AgPW0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mWPFQ8AgPW0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mWPFQ8AgPW0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 134,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mWPFQ8AgPW0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/SOm6JEFl7a7I4iUCsIc1LmPLIJk\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5DODY2Qzc5Mzc1QkZEQ0NF",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Thanh nhãn Bạc Liêu",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nYouTube: http://bit.ly/THVLTongHop\nFacebook: https://www.facebook.com/VinhLongTV",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ms6JPdRmhpo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ms6JPdRmhpo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ms6JPdRmhpo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ms6JPdRmhpo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 135,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ms6JPdRmhpo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/BvclS3SKhDSHpfvPo9Zh2n08EXE\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS44NzQ1OTI1OUFFM0NFRTc5",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Đổi mới nghề bánh tráng giấy Tường Lộc",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pzesi4DHZHQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pzesi4DHZHQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pzesi4DHZHQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Pzesi4DHZHQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 136,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Pzesi4DHZHQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/waw68YCyUdRvipontc95XbDYUXM\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5CMDk1Q0MxREYyOTVEOTZF",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Vị ngọt khóm Tắc Cậu",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QTD_0TC2TQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QTD_0TC2TQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QTD_0TC2TQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QTD_0TC2TQM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 137,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QTD_0TC2TQM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/k4FwcXgmDrzHdSAb0XJj7oYDvxw\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS43RjdBQTMwNUUwRTA1QkE3",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Hậu duệ sầu riêng Ri6",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XuFo7LAOrpc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XuFo7LAOrpc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XuFo7LAOrpc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XuFo7LAOrpc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 138,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XuFo7LAOrpc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/VwLC9erJEjWzWhRqC06PET02a2Y\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5GN0EwRkMxQTJGMTFCNDc1",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Mùa Ấu",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mJbDAKbjMYc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mJbDAKbjMYc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mJbDAKbjMYc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mJbDAKbjMYc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 139,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mJbDAKbjMYc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/os8ZVgkAIPl-CGhtZ7UAsLXjrQs\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5ENUI5OTFCQkYxNDUxQjQ3",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Xóm Cau Thành Phước",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mkdNOXux9RY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mkdNOXux9RY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mkdNOXux9RY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mkdNOXux9RY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 140,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mkdNOXux9RY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ixYkSQ89q0ouJ-1mzrqTjR4Uyt8\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5CRjBFOTUzQTE4Mjg3RUJF",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Mùa cà na",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5VClbVqQlVo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5VClbVqQlVo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5VClbVqQlVo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5VClbVqQlVo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 141,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5VClbVqQlVo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/owxdaM3-kkstNh2WF8uH32beFq4\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS41QTQ4QTIyM0Y1RTBGMUNE",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Khởi nghiệp xanh - Nghề trồng rau thủy canh",
+    "description": "Chương trình phát sóng lúc 19h45 Thứ Bảy hàng tuần trên THVL2.\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Kfw03yz786Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Kfw03yz786Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Kfw03yz786Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Kfw03yz786Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 142,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Kfw03yz786Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Zq7hGN6eg7stsj_R8JuE4wklxXA\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wQjA4QkVEQ0RFREIzMjFC",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Vương quốc xoài cát chu Cao Lãnh",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o3hcwJUb2Lk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o3hcwJUb2Lk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o3hcwJUb2Lk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o3hcwJUb2Lk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 143,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o3hcwJUb2Lk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ZefzgG2Ts3AxkJIAKB_nmRfHF8s\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4wNjIzRDA1OTQ2M0UyODEw",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nhịp sống Vĩnh Long - Chuyện bên làng gốm",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FKQSTh6dmo0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FKQSTh6dmo0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FKQSTh6dmo0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FKQSTh6dmo0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 144,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FKQSTh6dmo0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/eatilxsbkpG8NcXN2GzC_hl85vw\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5EQTdFNDU3M0Y3MTM1QjlG",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Khởi nghiệp xanh nơi rừng ngập mặn",
+    "description": "Chương trình phát sóng lúc 19h45 Thứ Bảy hàng tuần trên THVL2.\n\nMọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZWNryDNEcng/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZWNryDNEcng/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZWNryDNEcng/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZWNryDNEcng/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 145,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZWNryDNEcng"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/XvrcNDM1bNi5wG2b7UxCiFwuegg\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4xRjE1NzQ4MjRCMUNFRDdB",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Nhịp sống Vĩnh Long - Hạt gạo quê nhà",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-gG1Qb1rfsg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-gG1Qb1rfsg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-gG1Qb1rfsg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-gG1Qb1rfsg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 146,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-gG1Qb1rfsg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/h1VeTZi10pyIEKyR-qegch07sbM\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5DNUEzOUFFNkIyOUUzOTRC",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL l Nhịp sống đồng bằng: Trên Vùng Bưởi Mỹ Hòa",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvli.vn\n                http://www.thvl.vn\nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DU-vnWf-XHQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DU-vnWf-XHQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DU-vnWf-XHQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DU-vnWf-XHQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 147,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DU-vnWf-XHQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/C8ydWNhUYHxQZ5uIM_1nWgEvivM\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS4zMkY2MjA3RDJERTkxNjkz",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Làng chiếu Tà Niên",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/smcOAa2SMOc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/smcOAa2SMOc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/smcOAa2SMOc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/smcOAa2SMOc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 148,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "smcOAa2SMOc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/fBVksOYAtAAyX5YFuJM9gOLpD4c\"",
+   "id": "UEx3eUlQYjZJSXdxRUV3YmloZ0ZrSEJRZDhvdU0xbXlyLS5FMjFERkYxMjI2NjkyMjg5",
+   "snippet": {
+    "publishedAt": "2020-03-07T03:54:43.000Z",
+    "channelId": "UCd8wv9ZTfmE46Inlnh7E_Zg",
+    "title": "THVL | Nhịp sống đồng bằng: Về thăm vùng cá lóc Định An",
+    "description": "Mọi đóng góp để chương trình hoàn thiện hơn vui lòng liên hệ: \nWebsite: http://www.thvl.vn \nSubscribe: https://www.youtube.com/THVLTongHop/?sub_confirmation=1 \nFacebook: https://www.facebook.com/VinhLongTV  \nGoogle Plus: https://www.google.com/+THVLTongHop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1vvyvBaRu0c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1vvyvBaRu0c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1vvyvBaRu0c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1vvyvBaRu0c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Long Nguyen",
+    "playlistId": "PLwyIPb6IIwqEEwbihgFkHBQd8ouM1myr-",
+    "position": 149,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1vvyvBaRu0c"
+    }
+   }
+  }
+ ]
+}
